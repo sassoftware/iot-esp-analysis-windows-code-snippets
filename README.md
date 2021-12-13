@@ -1,5 +1,8 @@
 # ESP Analysis Windows Code Snippets
 
+> The code snippets in this repository are designed to be executed with SAS Event Stream Processing 6.2 . For examples that you can execute with SAS Event Stream Processing 2020.1, refer to the SAS Event Stream Processing Studio Examples GitHub repository.
+
+
 ## Overview
 
 This repository includes code snippets that you can execute for the Analysis windows of SAS Event Stream Processing (ESP). There is a directory for each example that contains all the files you need to execute the example. There is also a document for each code snippet to provide any instructions unique to the particular example.
